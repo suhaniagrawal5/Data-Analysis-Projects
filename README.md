@@ -22,8 +22,8 @@ Extract relevant patterns, trends, and insights
 Programming Language: Python
 
 Libraries Used:
-pandas
-numpy
+pandas,
+numpy,
 matplotlib
 
 
