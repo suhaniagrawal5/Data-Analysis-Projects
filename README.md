@@ -7,21 +7,14 @@ As this was my first hands-on experience with data analysis, I took guidance whe
 🎯 Problem Statement
 
 Raw datasets often contain:
-
 Missing values
-
 Duplicate records
-
 Inconsistent formatting
-
 Irrelevant or noisy data
 
 The goal of this project was to:
-
 Clean and preprocess the dataset
-
 Perform exploratory data analysis (EDA)
-
 Extract relevant patterns, trends, and insights
 
 🛠️ Tech Stack & Tools
@@ -29,13 +22,48 @@ Extract relevant patterns, trends, and insights
 Programming Language: Python
 
 Libraries Used:
-
 pandas
-
 numpy
-
 matplotlib
 
-seaborn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Environment: Jupyter Notebook
